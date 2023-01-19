@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://alin:alin123@cluster0.f4v5k.mongodb.net/user_2socialin_db",
+	"jwtSecret": "secret123"
+}
